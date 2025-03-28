@@ -1,6 +1,7 @@
 package Telestra;
 
-/* Multiply Lists
+/************************************************************************************************************************************************************************************************
+Multiply Lists
 Programming challenge description:
 You have 2 lists of positive integers. Write a program which multiplies corresponding elements in these lists.
 Input:
@@ -13,7 +14,8 @@ Download Test 1 Input
 9 0 6 | 15 14 9
 Expected Output
 Download Test 1 Output
-135 0 54*/
+135 0 54
+*************************************************************************************************************************************************************************************************/
 
 public class MultiplyLists {
     public static void main(String args[]) {
